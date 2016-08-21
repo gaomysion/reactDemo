@@ -1,0 +1,31 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    font-family: "Trebuchet MS",Verdana,"Malgun Gothic","Microsoft YaHei",sans-serif;
+}
+.item{
+	text-decoration: none;
+    margin-right: 5px;
+    width: 100px;
+    height: 58px;
+    line-height: 58px;
+    font-size: 24px;
+    color: #000;
+    font-size: 14px;
+    background-color: #888999;
+}
+
+.menu{
+	height: 65px;
+	padding: 15px;
+	background-color: #666fff;
+	margin-bottom: 20px;
+}
+.message{
+	background-color: #666fff;
+	height: 300px;
+	padding: 100px;
+}

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    font-family: "Trebuchet MS",Verdana,"Malgun Gothic","Microsoft YaHei",sans-serif;
+}
+.comments{
+   background-color: #00cc99;
+    width:600px;
+    margin: 0 auto;
+    padding:20px;
+}
+.comment{
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+.comment span{
+    margin-right:15px ;
+}
+.form .field input{
+    width:200px;
+    font-size: 16px;
+    line-height: 16px;
+}
+.form .field textarea{
+    margin-top: 5px;
+    width:200px;
+    font-size: 10px;
+    height: 60px;
+}
